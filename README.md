@@ -1,13 +1,13 @@
 ### Hi there, I'm [Rahul!](https://rahuldkjain.github.io) 👋
 
 <a href="https://codepen.io/rahuldkjain" target="_blank">
-  <img align="left" alt="Rahul Jain | rahuldkjain | Codepen" width="20px" src="assets/codepen.svg" />
+  <img align="left" alt="Rahul Jain | rahuldkjain | Codepen" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/81ba4992d502aa3d8a88cc9dd0cb89aa2237b884/assets/codepen.svg" />
 </a>
 <a href="https://dev.to/rahuldkjain">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rahul Jain's DEV Profile | rahuldkjain" height="30" width="30">
 </a>
 <a href="https://rahuldkjain.github.io/blog">
-  <img align="left" alt="Rahul Jain Blog | rahuldkjain" width="21px" src="assets/blog.svg" />
+  <img align="left" alt="Rahul Jain Blog | rahuldkjain" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/81ba4992d502aa3d8a88cc9dd0cb89aa2237b884/assets/blog.svg" />
 </a>
 
 <br />
