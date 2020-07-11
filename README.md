@@ -4,7 +4,7 @@
   <img align="left" alt="Rahul Jain | rahuldkjain | Codepen" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/81ba4992d502aa3d8a88cc9dd0cb89aa2237b884/assets/codepen.svg" />
 </a>
 <a href="https://dev.to/rahuldkjain">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rahul Jain's DEV Profile | rahuldkjain" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rahul Jain's DEV Profile | rahuldkjain" height="20" width="20">
 </a>
 <a href="https://rahuldkjain.github.io/blog">
   <img align="left" alt="Rahul Jain Blog | rahuldkjain" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/81ba4992d502aa3d8a88cc9dd0cb89aa2237b884/assets/blog.svg" />
@@ -33,8 +33,8 @@ Hi, I'm Rahul Jain, a yound dumb frontend web developer from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 
 
-I write articles regularly on <a href="https://dev.to/rahuldkjain">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rahul Jain's DEV Profile | rahuldkjain" height="20" width="20">
+I write articles regularly on <a href="https://https://rahuldkjain.github.io/blog">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/master/assets/rj-blog.png" alt="Rahul Jain's blog | rahuldkjain" height="20" width="20">
 </a>
 
 
