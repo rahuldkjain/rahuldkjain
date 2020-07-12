@@ -48,4 +48,4 @@
   
   
 
-I write articles regularly on my [blog](https://https://rahuldkjain.github.io/blog).
+I write articles regularly on my [blog](https://rahuldkjain.github.io/blog).
