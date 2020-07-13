@@ -13,7 +13,7 @@
 </p>
 
 <h4 align="center">A yound dumb frontend web developer from India.</h4>
-
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=rahuldkjain.rahuldkjain" alt="rahuldkjain"/>
 <br />
 
 <br />
@@ -49,3 +49,5 @@
   
 
 I write articles regularly on my [blog](https://rahuldkjain.github.io/blog).
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true)
