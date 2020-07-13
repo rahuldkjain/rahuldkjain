@@ -11,9 +11,8 @@
 <img align="center"  alt="Rahul Jain Blog | rahuldkjain"  width="21px"  src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/master/assets/rj-blog.png" />
 </a>
 </p>
-
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rahuldkjain.rahuldkjain" alt="rahuldkjain"/></p>
 <h4 align="center">A yound dumb frontend web developer from India.</h4>
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=rahuldkjain.rahuldkjain" alt="rahuldkjain"/>
 <br />
 
 <br />
