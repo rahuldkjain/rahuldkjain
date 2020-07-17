@@ -1,52 +1,30 @@
-<h1 align="center">Hi there, I'm <a href="https://rahuldkjain.github.io"  target="_blank">Rahul!</a> 👋</h1>
+<h1 align="center">Hi 👋, I'm Rahul</h1>
 
 <p align="center">
-<a href="https://codepen.io/rahuldkjain" style="text-decoration: none;"  target="_blank">
-<img align="center"  alt="Rahul Jain | rahuldkjain | Codepen"  width="20px"  src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/81ba4992d502aa3d8a88cc9dd0cb89aa2237b884/assets/codepen.svg" />
-</a>
-<a href="https://dev.to/rahuldkjain" style="text-decoration: none;" target="_blank">
-<img align="center"  src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"  alt="Rahul Jain's DEV Profile | rahuldkjain"  height="20"  width="20">
-</a>
-<a href="https://rahuldkjain.github.io/blog" style="text-decoration: none;" target="_blank">
-<img align="center"  alt="Rahul Jain Blog | rahuldkjain"  width="21px"  src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/master/assets/rj-blog.png" />
-</a>
+<a href=https://codepen.io/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="rahuldkjain" height="20" width="20" /></a>
+<a href=https://dev.to/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="rahuldkjain" height="20" width="20" /></a>
+<a href=https://twitter.com/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="rahuldkjain" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" height="20" width="20" /></a>
 </p>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rahuldkjain.rahuldkjain" alt="rahuldkjain"/></p>
-<h4 align="center">A yound dumb frontend web developer from India.</h4>
-<br />
 
-<br />
+<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
-  
-  
+- 🔭 I’m currently working on [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
-- 🔭 I’m currently working on my project [Minimal Portfolio](https://github.com/rahuldkjain/minimal-portfolio)
+- 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
 
-- 🌱 I’m currently learning ReactNative and Animations using Greensock(GSAP)
+- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
-- 🤔 I’m looking for help with [Minimal Portfolio](https://github.com/rahuldkjain/minimal-portfolio/issues)
+- 💬 Ask me about **react, vue and gsap**
 
-- 💬 Ask me about anything [here](https://github.com/rahuldkjain/rahuldkjain/issues)
+- 📫 Reach me at **rahuldkjain@gmail.com**
 
-- 📫 How to reach me: drop me a mail at rahuldkjain@gmail.com
+- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
 
-  
+- ⚡ Fun fact **Chai over Coffee ☕️**
 
-**Languages and Tools:**
+I have a bug to document technical stuffs I which can be found at my [blog](https://rahuldkjain.github.io)
 
-  
-
-<code><img height="25"  src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="25"  src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="25"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25"  src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
-<code><img height="25"  src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
-<code><img height="25"  src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-
-  
-  
-
-I write articles regularly on my [blog](https://rahuldkjain.github.io/blog).
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true)
+<p align="left"><img src=https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/></p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
