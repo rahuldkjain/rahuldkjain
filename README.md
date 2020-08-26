@@ -27,7 +27,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 **📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
 <!-- BLOG-POST-LIST:START -->
-- [How to gain 200+ stars on github project in less than 36 hours](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
+- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
 - [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/rahuldkjain/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
 - [windmill animation in 10KB](https://dev.to/rahuldkjain/windmill-animation-in-10kb-51m8)
 - [animated banner for repository README](https://dev.to/rahuldkjain/animated-banner-for-repository-readme-1ong)
