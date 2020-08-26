@@ -27,10 +27,10 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 **📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
 <!-- BLOG-POST-LIST:START -->
+- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
 - [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
 - [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/rahuldkjain/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
 - [windmill animation in 10KB](https://dev.to/rahuldkjain/windmill-animation-in-10kb-51m8)
-- [animated banner for repository README](https://dev.to/rahuldkjain/animated-banner-for-repository-readme-1ong)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="40" height="40"/></p>
