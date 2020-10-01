@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog post workflowNick
 on:
   schedule:
     # Runs every hour
